@@ -17,17 +17,6 @@ html {
   box-sizing: inherit;
 }
 
-.btn {
-  font-size: 1.125rem;
-  display: inline-block;
-  background-color: #555;
-  color: #fff;
-  text-decoration: none;
-  border: 3px;
-  border-radius: 8px;
-  padding: 0.5em 0.75em;
-}
-
 .btn:hover {
   display: inline-block;
   background-color: #000;
@@ -56,11 +45,6 @@ img {
 }
 
 body {
-  background-color: #e2e2e2;
-  margin: 0;
-  max-width: none;
-  vertical-align: middle;
-  font-style: normal;
   margin: 0;
 }
 
@@ -75,6 +59,8 @@ p {
 
 section {
   padding-top: 2em;
+  background-color: #e2e2e2;
+  text-align: center;
 }
 
 @media only screen and (min-width: 25em) {
