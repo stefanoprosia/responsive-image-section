@@ -123,3 +123,29 @@ section {
     padding-bottom: 2rem;
   }
 }
+
+@media only screen and (min-width: 60em) {
+
+  html {
+    text-align: left;
+    font-size: 120%;
+    line-height: 1.5;
+  }
+
+  p {
+    max-width: 1200px;
+    padding-top: 2rem;
+    margin: auto;
+  }
+
+  article {
+    margin: auto;
+    padding-top: 2rem;
+    max-width: 1300px;
+  }
+
+  .img-flex {
+    display: block;
+    width: 100%;
+  }
+}
