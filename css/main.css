@@ -122,6 +122,20 @@ section {
   article {
     padding-bottom: 2rem;
   }
+
+  .section-text {
+    display: inline-block;
+    width: 48%;
+    max-width: none;
+    vertical-align: middle;
+  }
+
+  .img-flex {
+    display: inline-block;
+    width: 48%;
+    max-width: none;
+    vertical-align: middle;
+  }
 }
 
 @media only screen and (min-width: 60em) {
