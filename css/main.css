@@ -113,8 +113,8 @@ section {
   }
 
   section {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
   }
 }
 
@@ -122,4 +122,5 @@ section {
 
   html {
     font-size: 130%;
+  }
 }
