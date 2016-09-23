@@ -94,6 +94,32 @@ section {
 @media only screen and (min-width: 38em) {
 
   html {
-    
+    width: 40%;
+    display: inline-block;
+    font-size: 110%;
+    line-height: 1.4;
+    vertical-align: middle;
+    text-align: left;
+  }
+
+  img {
+    width: auto;
+  }
+
+  .img-flex {
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  p {
+    width: 40%;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  article {
+    padding-bottom: 2rem;
   }
 }
